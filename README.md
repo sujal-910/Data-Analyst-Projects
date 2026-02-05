@@ -8,7 +8,6 @@ The projects focus on data cleaning, feature engineering, EDA, and visualization
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Projects
